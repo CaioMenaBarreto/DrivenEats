@@ -167,7 +167,7 @@ function fazerPedido(){
     const mensWP = encodeURIComponent(mensagem);
 
     // abrindo o WhatsApp e enviando a mesangem
-    window.open(`https://wa.me/5599999999999?text=${mensWP}`);
+    window.open(`https://wa.me/5561991389999?text=${mensWP}`);
 
 }
 
